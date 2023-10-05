@@ -1,0 +1,153 @@
+
+RECOPILACIÓN DE HISTORIAS DE USUARIO  
+
+ID: RF1
+
+Rol: Cliente 
+
+Característica / Funcionalidad: Mostrar información de servicios y precios 
+
+Razón / Resultado: Permite a los clientes conocer los servicios ofrecidos 
+
+Criterios de aceptación: Página de servicios y precios con descripciones claras y fotos 
+
+ID: RF2 
+
+Rol: Cliente 
+
+Característica / Funcionalidad: Galería de fotos de cortes de pelo 
+
+Razón / Resultado: Mostrar ejemplos de trabajos anteriores 
+
+Criterios de aceptación: Galería de imágenes organizada y actualizada 
+
+
+ID: RF3 
+
+Rol: Cliente 
+
+Característica / Funcionalidad: Mostrar horarios de atención 
+
+Razón / Resultado: Facilita a los clientes planificar su visita 
+
+Criterios de aceptación: Los horarios son actualizados y visibles en el sitio 
+
+
+
+
+ID: RF4 
+
+Rol: Cliente 
+
+Característica / Funcionalidad: Mostrar perfiles de barberos
+
+Razón / Resultado: Ayuda a los clientes a elegir un barbero 
+
+Criterios de aceptación: Perfiles de barberos completos y actualizados 
+
+ID: RF5 
+
+Rol: Cliente 
+
+Característica / Funcionalidad: Sistema de inicio de sesión (Login) 
+
+Razón / Resultado: Acceso seguro a cuentas de clientes 
+
+Criterios de aceptación: Autenticación de usuarios con credenciales válidas
+
+
+
+ID: RF6 
+
+Rol: Cliente 
+
+Característica / Funcionalidad: Sistema de registro de usuarios 
+
+Razón / Resultado: Permite a nuevos clientes crear cuentas
+
+Criterios de aceptación: Formulario de registro con campos obligatorios y validación de datos 
+
+
+ID: RF7 
+
+Rol: Cliente 
+
+Característica / Funcionalidad: Formulario de contacto 
+
+Razón / Resultado: Permitir a los clientes hacer preguntas 
+
+Criterios de aceptación: Formulario de contacto funcional y visible 
+
+
+ID: RF8 
+
+Rol: Cliente 
+
+Característica / Funcionalidad: Reserva de horas en línea 
+
+Razón / Resultado: Facilitar la programación de horas 
+
+Criterios de aceptación: Sistema de reserva con calendario y confirmación 
+
+
+
+ID: RF9 
+
+Rol: Trabajador 
+
+Característica / Funcionalidad: Sistema de inicio de sesión (Login) 
+
+Razón / Resultado: Acceso seguro a cuentas de trabajadores 
+
+Criterios de aceptación: Autenticación de trabajadores con credenciales válidas 
+
+ID: RF10 
+
+Rol: Trabajador 
+
+Característica / Funcionalidad: Gestión de citas 
+
+Razón / Resultado: Ver, editar y confirmar reservas
+
+Criterios de aceptación: Capacidad para ver y actualizar reservaciones 
+
+
+
+ID: RF11 
+
+Rol: Trabajador 
+
+Característica / Funcionalidad: Actualización de fotos y servicios 
+
+Razón / Resultado: Mantener el contenido actualizado 
+
+Criterios de aceptación: Función para agregar y editar información 
+
+
+
+
+ID: RNF12 
+
+Rol: Cliente 
+
+Característica / Funcionalidad: Seguridad de datos 
+
+Razón / Resultado: Proteger la información del cliente 
+
+Criterios de aceptación: Cumplir con estándares de seguridad y privacidad 
+
+
+ID: RNF13 
+
+Rol: Cliente 
+
+Característica / Funcionalidad: Integración de redes sociales 
+
+Razón / Resultado: Facilitar la promoción en línea
+
+Criterios de aceptación: Enlaces a perfiles de redes sociales 
+
+
+
+
+
