@@ -83,13 +83,13 @@ WSGI_APPLICATION = 'proyecto_barberia.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mibarberia',
-        'USER': 'kevin',
-        'PASSWORD': 'user123',
-        'HOST': '174.129.108.93',
+        'NAME': 'namedb',
+        'USER': 'user',
+        'PASSWORD': 'password',
+        'HOST': 'ip',
         'PORT': '3306',
             'OPTIONS': {
-        'init_command': 'ALTER DATABASE mibarberia CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci',
+        'init_command': 'ALTER DATABASE namedb CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci',
         },
     }
 }
