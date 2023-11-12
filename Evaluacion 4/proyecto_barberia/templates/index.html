@@ -1,0 +1,65 @@
+{% extends 'base.html'%}
+{% load static %}
+{% block container %}
+
+    <div class="jumbotron page-header">
+        <h1>La Navaja Del Barbero</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p><a class="btn btn-primary">Ver más</a></p>
+    </div>
+
+    <div class="jumbotron page-header">
+        <div class="">
+            <h2 class="">¿Quiénes somos?</h2>
+            <div class="contenedor-sobre-nosotros">
+                <img src="{% static 'img/nosotros.jpg' %}" class="imagen-sobre-nosotros" alt="">
+                <div class="">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus cum illo totam eius quos minus dolorum maiores ratione, repudiandae, error amet magnam adipisci in cupiditate sapiente nesciunt est ipsum porro impedit nobis, rem fugiat. Quam aliquam, totam quisquam commodi magnam at, esse, reiciendis nam fugiat expedita in quos nobis? Fugit beatae atque nam consequuntur aspernatur earum illo eius optio ipsam quia, harum possimus dignissimos tempora cupiditate unde quod labore? Blanditiis, cumque repellendus, non facere nemo nobis natus vitae aut, recusandae praesentium maiores aperiam excepturi voluptatem. Necessitatibus mollitia officia eius, quos modi, unde sunt voluptatibus cumque porro fugit quibusdam aliquid ex.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="jumbotron page-header">
+        <h2 class="">Servicios</h2>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="{% static 'img/servicio1.png' %}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h3 class="card-title">Corte de cabello</h3>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="{% static 'img/servicio2.png' %}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h3 class="card-title">Perfilado de barba</h3>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="{% static 'img/servicio3.png' %}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h3 class="card-title">Afeitado al ras</h3>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="jumbotron page-header">
+        <div class="">
+            <h2 class="titulo">Ubicación</h2>
+            <div class="">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49800.18941206635!2d-72.64392077344696!3d-38.72901531104381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9614d3cec21a2223%3A0xc2fa8887ff008408!2sTemuco%2C%20Araucan%C3%ADa!5e0!3m2!1ses-419!2scl!4v1668411082669!5m2!1ses-419!2scl" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
